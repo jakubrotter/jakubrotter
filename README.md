@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jakubrotter&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jakubrotter&icon=0&color=0)](https://visitcount.itsvg.in)
